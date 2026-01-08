@@ -116,8 +116,8 @@ nav > a {
  .page-center {
     min-height: 100vh;
     display: flex;
-    justify-content: center;   /* ჰორიზონტალურად */
-    align-items: center;       /* ვერტიკალურად */
+    justify-content: center; 
+    align-items: center;   
     padding: 24px;
 }
 
