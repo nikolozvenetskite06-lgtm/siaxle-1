@@ -122,8 +122,8 @@ nav > a {
 }
 
 .news-list {
-    width: 100%;
-    max-width: 900px;
+     width: 100%;
+     max-width: 1200px;
 }
 
 .news-item {
@@ -131,6 +131,7 @@ nav > a {
     gap: 16px;
     padding: 16px 0;
     border-bottom: 1px solid #e5e5e5;
+    
 }
 
 .news-text {
@@ -231,4 +232,9 @@ nav > a {
   border-top: 1px solid #333;
   color: #888;
   font-size: 0.9rem;
+}
+
+#techschool {
+    color: white;
+    font-size: 20px;
 }
